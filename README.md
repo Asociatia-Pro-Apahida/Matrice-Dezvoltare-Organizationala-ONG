@@ -1,2 +1,2 @@
-# Matrice-Dezvoltare-Organizationala-ONG
-Matrice de Dezvoltare Organizationala pentru ONG-uri
+# Matrice-Dezvoltare-Organizațională-ONG
+Matrice de Dezvoltare Organizațională pentru ONG-uri
